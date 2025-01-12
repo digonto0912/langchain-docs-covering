@@ -1,4 +1,4 @@
-#Chain Integration for NLP Applications
+# Chain Integration for NLP Applications
 
 This project demonstrates the use of LangChain, a powerful framework for developing applications powered by large language models (LLMs). LangChain allows for seamless integration of language models with various external data sources, facilitating the creation of intelligent and complex NLP-driven applications. The project leverages LangChain's capabilities to chain together different components such as document loaders, model wrappers, and prompt templates to create a comprehensive NLP workflow.
 
